@@ -2,4 +2,4 @@
 Cajero automatico usando HTML, CSS Y JAVASCRIPT
 
 ### Captura de pantalla
-![](img/captura.png)
+![](Img/captura.png)
